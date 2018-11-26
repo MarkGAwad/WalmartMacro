@@ -30,7 +30,7 @@ BY-PP-LG-114-AC	    1.145
 
 The equation is to search by item ID ( get the Array third dimension ) and multiply it with the number of Cartons.
 
-Added it to the order volume in the loop and then print it in Excel.
+Add it to the order volume in the loop and then print it in Excel Cell"AD".
 
-Also do the same with Back orders.
+Also do the same with Back orders in a loop.
 
